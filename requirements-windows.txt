@@ -1,0 +1,20 @@
+# Core dependencies
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Database (SQLAlchemy only, we'll use SQLite)
+sqlalchemy==2.0.23
+
+# Web scraping
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==5.1.0
+html2text==2020.1.16
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+tqdm==4.66.1
+
+# Development
+pytest==7.4.3
